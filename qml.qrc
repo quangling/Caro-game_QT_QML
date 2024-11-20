@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoginScreen.qml</file>
+        <file>BoardCaro.qml</file>
+        <file>Menu.qml</file>
+        <file>BotModePopUp.qml</file>
+        <file>PlayerWinPopUp.qml</file>
+        <file>HistoryScreen.qml</file>
+        <file>Guide.qml</file>
+    </qresource>
+</RCC>
